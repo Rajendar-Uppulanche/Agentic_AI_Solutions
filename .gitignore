@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+.env
+
+# Google Cloud service account credentials — never commit these
+*.json
+!package*.json
+*vertexAI*
+*service-account*
+*credentials*.json

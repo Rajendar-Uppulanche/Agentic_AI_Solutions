@@ -1,0 +1,14 @@
+flask
+asgiref
+fastapi
+uvicorn
+openai
+python-dotenv
+pydantic
+pydantic-settings
+httpx
+langchain
+langchain-openai
+langgraph
+google-auth
+pytest
